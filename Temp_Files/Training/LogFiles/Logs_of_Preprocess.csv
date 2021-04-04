@@ -1,0 +1,682 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+Preprocess,Preprocessing Training data,2021-04-04 19:32:16.464897,,Started,
+Preprocess,Loading File,2021-04-04 19:32:16.813917,SingleFile.csv,Data frame created with the file,
+Preprocess,Missing values,2021-04-04 19:32:17.057931,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values of columns for      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns] are stored",
+Preprocess,Pushing File,2021-04-04 19:32:17.648965,,Missing values of columns for each file is stored in 'MissingValues_FileName' folder,
+Preprocess,Imputing missing values,2021-04-04 19:32:17.651965,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->capshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:18.038987,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->capsurface : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:18.386007,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->capcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:18.737027,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->bruises%3F : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:19.069046,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->odor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:19.381064,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillattachment : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:19.696082,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillspacing : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:20.008100,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillsize : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:20.336118,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:20.721140,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:21.076161,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkroot : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:21.399179,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalksurfaceabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:21.727198,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalksurfacebelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:22.053217,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkcolorabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:22.376235,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkcolorbelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:22.811260,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->veiltype : 0",Imputed with CategoricalImputer()
+Preprocess,Removing unnecessary columns,2021-04-04 19:32:23.262286,SingleFile.csv,Falsecolumns are removed,
+Preprocess,Imputing missing values,2021-04-04 19:32:23.279287,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->veilcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:23.575304,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->ringnumber : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:23.922324,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->ringtype : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:24.322346,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->sporeprintcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:24.619363,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->population : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:24.928381,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->habitat : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:25.232398,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->class : 0",Imputed with CategoricalImputer()
+Preprocess,Convert categorical into numerical,2021-04-04 19:32:26.400465,"      class  capshape_'c'  capshape_'f'  ...  habitat_'p'  habitat_'u'  habitat_'w'
+0         1             0             0  ...            0            1            0
+1         0             0             0  ...            0            0            0
+2         0             0             0  ...            0            0            0
+3         1             0             0  ...            0            1            0
+4         0             0             0  ...            0            0            0
+...     ...           ...           ...  ...          ...          ...          ...
+8119      0             0             0  ...            0            0            0
+8120      0             0             0  ...            0            0            0
+8121      0             0             1  ...            0            0            0
+8122      1             0             0  ...            0            0            0
+8123      0             0             0  ...            0            0            0
+
+[8124 rows x 95 columns]","Categorical column :       class  capshape_'c'  capshape_'f'  ...  habitat_'p'  habitat_'u'  habitat_'w'
+0         1             0             0  ...            0            1            0
+1         0             0             0  ...            0            0            0
+2         0             0             0  ...            0            0            0
+3         1             0             0  ...            0            1            0
+4         0             0             0  ...            0            0            0
+...     ...           ...           ...  ...          ...          ...          ...
+8119      0             0             0  ...            0            0            0
+8120      0             0             0  ...            0            0            0
+8121      0             0             1  ...            0            0            0
+8122      1             0             0  ...            0            0            0
+8123      0             0             0  ...            0            0            0
+
+[8124 rows x 95 columns]->class",Convert to Numerical
+Preprocess,Storing File,2021-04-04 19:32:27.974555,SingleFile.csv,InputFile is stored in SingleFiles fodler,
+Preprocess,Preprocessing Training data,2021-04-04 19:32:27.974555,,Completed,

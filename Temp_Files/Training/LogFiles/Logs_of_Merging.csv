@@ -1,0 +1,8 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+Merge,Merging all Transformed Files into Single File,2021-04-04 19:32:15.298830,,Started,
+Merge,Loading Schema File,2021-04-04 19:32:15.299830,schema_training.json,Successfully loaded,
+Merge,Loading Transformed Files,2021-04-04 19:32:15.314831,,13 are loaded successfully,
+Merge,Merging all files,2021-04-04 19:32:15.314831,,Started,
+Merge,Merging all files,2021-04-04 19:32:15.899865,,Completed,
+Merge,Storing file,2021-04-04 19:32:16.165880,SingleFile.csv,Stored successfully into SingleFile folder,
+Merge,Merging all Transformed Files into Single File,2021-04-04 19:32:16.165880,,Completed,

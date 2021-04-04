@@ -1,0 +1,80 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+Validations,File names and Describe validations with schema file,2021-04-04 19:31:56.043729,,Started,
+Validations,Loading Schema File,2021-04-04 19:31:56.044729,schema_training.json,Successfully Loaded,
+Validations,Loading Raw Files list,2021-04-04 19:31:56.046729,{},Successfully Loaded,16 RawFiles are available
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.046729,mushroom_08012006_120010.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.046729,mushroom_08012006_120010.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.046729,mushroom_08012006_120010.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.074731,mushroom_08012006_120010.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.218739,mushroom_08012006_120010.csv,Validation Success,mushroom_08012006_120010.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.218739,mushroom_08012007_120011.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.218739,mushroom_08012007_120011.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.218739,mushroom_08012007_120011.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.255741,mushroom_08012007_120011.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.292743,mushroom_08012007_120011.csv,Validation Success,mushroom_08012007_120011.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.292743,mushroom_08012008_120012.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.292743,mushroom_08012008_120012.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.292743,mushroom_08012008_120012.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.322745,mushroom_08012008_120012.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.361747,mushroom_08012008_120012.csv,Validation Success,mushroom_08012008_120012.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.361747,mushroom_08012009_120013.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.361747,mushroom_08012009_120013.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.361747,mushroom_08012009_120013.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.400749,mushroom_08012009_120013.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.428751,mushroom_08012009_120013.csv,Validation Success,mushroom_08012009_120013.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.429751,mushroom_08012010_120014.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.429751,mushroom_08012010_120014.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.429751,mushroom_08012010_120014.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.461753,mushroom_08012010_120014.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.500755,mushroom_08012010_120014.csv,Validation Success,mushroom_08012010_120014.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.500755,mushroom_08012011_120015.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.500755,mushroom_08012011_120015.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.500755,mushroom_08012011_120015.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.528757,mushroom_08012011_120015.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.563759,mushroom_08012011_120015.csv,Validation Success,mushroom_08012011_120015.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.563759,mushroom_08012012_120016.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.564759,mushroom_08012012_120016.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.564759,mushroom_08012012_120016.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.591760,mushroom_08012012_120016.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.624762,mushroom_08012012_120016.csv,Validation Success,mushroom_08012012_120016.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.624762,mushroom_08012013_120017.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.624762,mushroom_08012013_120017.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.624762,mushroom_08012013_120017.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.651764,mushroom_08012013_120017.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.679765,mushroom_08012013_120017.csv,Validation Success,mushroom_08012013_120017.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.679765,mushroom_08012014_120018.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.679765,mushroom_08012014_120018.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.679765,mushroom_08012014_120018.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.711767,mushroom_08012014_120018.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.744769,mushroom_08012014_120018.csv,Validation Success,mushroom_08012014_120018.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.744769,mushroom_08012015_120019.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.744769,mushroom_08012015_120019.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.744769,mushroom_08012015_120019.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.776771,mushroom_08012015_120019.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.804773,mushroom_08012015_120019.csv,Validation Success,mushroom_08012015_120019.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.804773,mushroom_08012016_120.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.804773,mushroom_08012016_120.csv,Validation Success,
+Validations,Name Validation: Timestamp,2021-04-04 19:31:56.806773,mushroom_08012016_120.csv,Failed: TimeDigits and TimeLength -> 120,
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.806773,mushroom_08012016_120020.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.806773,mushroom_08012016_120020.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.806773,mushroom_08012016_120020.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.833774,mushroom_08012016_120020.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.868776,mushroom_08012016_120020.csv,Validation Success,mushroom_08012016_120020.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.868776,mushroom_08012017_120021.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.868776,mushroom_08012017_120021.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.868776,mushroom_08012017_120021.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.897778,mushroom_08012017_120021.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.929780,mushroom_08012017_120021.csv,Validation Success,mushroom_08012017_120021.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.929780,mushroom_08012017_1201.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.929780,mushroom_08012017_1201.csv,Validation Success,
+Validations,Name Validation: Timestamp,2021-04-04 19:31:56.930780,mushroom_08012017_1201.csv,Failed: TimeDigits and TimeLength -> 1201,
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.930780,mushroom_08012018_120022.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.930780,mushroom_08012018_120022.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.930780,mushroom_08012018_120022.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:57.007784,mushroom_08012018_120022.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:57.043786,mushroom_08012018_120022.csv,Validation Success,mushroom_08012018_120022.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:57.043786,mushroom_08012018_120088.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:57.043786,mushroom_08012018_120088.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:57.043786,mushroom_08012018_120088.csv,Validation Success,
+Validations,Column Validation: Number of Columns,2021-04-04 19:31:57.074788,mushroom_08012018_120088.csv,Failed: mushroom_08012018_120088.csv has 17 columns,mushroom_08012018_120088.csv is moved to BadFiles folder
+Validations,File names and Describe validations,2021-04-04 19:31:57.074788,,Completed,

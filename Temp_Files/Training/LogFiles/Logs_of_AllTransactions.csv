@@ -1,0 +1,1806 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+Local Folder Creation,Removing Folder in Local,2021-04-04 19:31:28.864174,,Started,
+Local Folder Creation,Removing Folder in Local,2021-04-04 19:31:28.864174,,'Temp_Files' is not available,
+Local Folder Creation,Removing Folder in Local,2021-04-04 19:31:28.864174,,Completed,
+Local Folder Creation,Creating Folders in Local,2021-04-04 19:31:28.864174,,Started,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/RawFiles/,2021-04-04 19:31:28.864174,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.865174,,Temp_Files is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/RawFiles/,2021-04-04 19:31:28.865174,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.866175,,Training is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/RawFiles/,2021-04-04 19:31:28.866175,,Completed,
+Local Folder Creation,Creating folder: RawFiles,2021-04-04 19:31:28.866175,,RawFiles is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/RawFiles/,2021-04-04 19:31:28.866175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/GoodFiles/,2021-04-04 19:31:28.867175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.867175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/GoodFiles/,2021-04-04 19:31:28.867175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.867175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/GoodFiles/,2021-04-04 19:31:28.867175,,Completed,
+Local Folder Creation,Creating folder: GoodFiles,2021-04-04 19:31:28.867175,,GoodFiles is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/GoodFiles/,2021-04-04 19:31:28.868175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/BadFiles/,2021-04-04 19:31:28.868175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.868175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/BadFiles/,2021-04-04 19:31:28.868175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.868175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/BadFiles/,2021-04-04 19:31:28.868175,,Completed,
+Local Folder Creation,Creating folder: BadFiles,2021-04-04 19:31:28.869175,,BadFiles is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/BadFiles/,2021-04-04 19:31:28.869175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/TransformedFiles/,2021-04-04 19:31:28.869175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.869175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/TransformedFiles/,2021-04-04 19:31:28.869175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.869175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/TransformedFiles/,2021-04-04 19:31:28.870175,,Completed,
+Local Folder Creation,Creating folder: TransformedFiles,2021-04-04 19:31:28.870175,,TransformedFiles is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/TransformedFiles/,2021-04-04 19:31:28.870175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SingleFile/,2021-04-04 19:31:28.870175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.871175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SingleFile/,2021-04-04 19:31:28.871175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.871175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SingleFile/,2021-04-04 19:31:28.871175,,Completed,
+Local Folder Creation,Creating folder: SingleFile,2021-04-04 19:31:28.872175,,SingleFile is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SingleFile/,2021-04-04 19:31:28.872175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:28.872175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.872175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:28.873175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.873175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:28.873175,,Completed,
+Local Folder Creation,Creating folder: SchemaFile,2021-04-04 19:31:28.873175,,SchemaFile is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:28.873175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/LogFiles/,2021-04-04 19:31:28.874175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.874175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/LogFiles/,2021-04-04 19:31:28.874175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.874175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/LogFiles/,2021-04-04 19:31:28.874175,,Completed,
+Local Folder Creation,Creating folder: LogFiles,2021-04-04 19:31:28.875175,,LogFiles is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/LogFiles/,2021-04-04 19:31:28.879175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/Clusters/,2021-04-04 19:31:28.879175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.880175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/Clusters/,2021-04-04 19:31:28.880175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.880175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/Clusters/,2021-04-04 19:31:28.880175,,Completed,
+Local Folder Creation,Creating folder: Models,2021-04-04 19:31:28.881175,,Models is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/Clusters/,2021-04-04 19:31:28.881175,,Completed,
+Local Folder Creation,Creating folder: Clusters,2021-04-04 19:31:28.881175,,Clusters is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/Clusters/,2021-04-04 19:31:28.882175,,Completed,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/BestModels/,2021-04-04 19:31:28.882175,,Started,
+Local Folder Creation,Creating folder: Temp_Files,2021-04-04 19:31:28.882175,,Temp_Files is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/BestModels/,2021-04-04 19:31:28.882175,,Completed,
+Local Folder Creation,Creating folder: Training,2021-04-04 19:31:28.882175,,Training is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/BestModels/,2021-04-04 19:31:28.883175,,Completed,
+Local Folder Creation,Creating folder: Models,2021-04-04 19:31:28.883175,,Models is already created,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/BestModels/,2021-04-04 19:31:28.883175,,Completed,
+Local Folder Creation,Creating folder: BestModels,2021-04-04 19:31:28.883175,,BestModels is created successfully,
+Local Folder Creation,Creating folder structure: Temp_Files/Training/Models/BestModels/,2021-04-04 19:31:28.884176,,Completed,
+Local Folder Creation,Creating Folders in Local,2021-04-04 19:31:28.884176,,Completed,
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+Validations,File names and Describe validations with schema file,2021-04-04 19:31:56.043729,,Started,
+Validations,Loading Schema File,2021-04-04 19:31:56.044729,schema_training.json,Successfully Loaded,
+Validations,Loading Raw Files list,2021-04-04 19:31:56.046729,{},Successfully Loaded,16 RawFiles are available
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.046729,mushroom_08012006_120010.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.046729,mushroom_08012006_120010.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.046729,mushroom_08012006_120010.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.074731,mushroom_08012006_120010.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.218739,mushroom_08012006_120010.csv,Validation Success,mushroom_08012006_120010.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.218739,mushroom_08012007_120011.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.218739,mushroom_08012007_120011.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.218739,mushroom_08012007_120011.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.255741,mushroom_08012007_120011.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.292743,mushroom_08012007_120011.csv,Validation Success,mushroom_08012007_120011.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.292743,mushroom_08012008_120012.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.292743,mushroom_08012008_120012.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.292743,mushroom_08012008_120012.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.322745,mushroom_08012008_120012.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.361747,mushroom_08012008_120012.csv,Validation Success,mushroom_08012008_120012.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.361747,mushroom_08012009_120013.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.361747,mushroom_08012009_120013.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.361747,mushroom_08012009_120013.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.400749,mushroom_08012009_120013.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.428751,mushroom_08012009_120013.csv,Validation Success,mushroom_08012009_120013.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.429751,mushroom_08012010_120014.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.429751,mushroom_08012010_120014.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.429751,mushroom_08012010_120014.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.461753,mushroom_08012010_120014.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.500755,mushroom_08012010_120014.csv,Validation Success,mushroom_08012010_120014.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.500755,mushroom_08012011_120015.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.500755,mushroom_08012011_120015.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.500755,mushroom_08012011_120015.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.528757,mushroom_08012011_120015.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.563759,mushroom_08012011_120015.csv,Validation Success,mushroom_08012011_120015.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.563759,mushroom_08012012_120016.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.564759,mushroom_08012012_120016.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.564759,mushroom_08012012_120016.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.591760,mushroom_08012012_120016.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.624762,mushroom_08012012_120016.csv,Validation Success,mushroom_08012012_120016.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.624762,mushroom_08012013_120017.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.624762,mushroom_08012013_120017.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.624762,mushroom_08012013_120017.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.651764,mushroom_08012013_120017.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.679765,mushroom_08012013_120017.csv,Validation Success,mushroom_08012013_120017.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.679765,mushroom_08012014_120018.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.679765,mushroom_08012014_120018.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.679765,mushroom_08012014_120018.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.711767,mushroom_08012014_120018.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.744769,mushroom_08012014_120018.csv,Validation Success,mushroom_08012014_120018.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.744769,mushroom_08012015_120019.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.744769,mushroom_08012015_120019.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.744769,mushroom_08012015_120019.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.776771,mushroom_08012015_120019.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.804773,mushroom_08012015_120019.csv,Validation Success,mushroom_08012015_120019.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.804773,mushroom_08012016_120.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.804773,mushroom_08012016_120.csv,Validation Success,
+Validations,Name Validation: Timestamp,2021-04-04 19:31:56.806773,mushroom_08012016_120.csv,Failed: TimeDigits and TimeLength -> 120,
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.806773,mushroom_08012016_120020.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.806773,mushroom_08012016_120020.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.806773,mushroom_08012016_120020.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.833774,mushroom_08012016_120020.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.868776,mushroom_08012016_120020.csv,Validation Success,mushroom_08012016_120020.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.868776,mushroom_08012017_120021.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.868776,mushroom_08012017_120021.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.868776,mushroom_08012017_120021.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:56.897778,mushroom_08012017_120021.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:56.929780,mushroom_08012017_120021.csv,Validation Success,mushroom_08012017_120021.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.929780,mushroom_08012017_1201.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.929780,mushroom_08012017_1201.csv,Validation Success,
+Validations,Name Validation: Timestamp,2021-04-04 19:31:56.930780,mushroom_08012017_1201.csv,Failed: TimeDigits and TimeLength -> 1201,
+Validations,Name Validation: Wafer,2021-04-04 19:31:56.930780,mushroom_08012018_120022.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:56.930780,mushroom_08012018_120022.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:56.930780,mushroom_08012018_120022.csv,Validation Success,
+Validations,Column Validation: Column Numbers,2021-04-04 19:31:57.007784,mushroom_08012018_120022.csv,Validation Success,
+Validations,Column Validation: Missing values in Column,2021-04-04 19:31:57.043786,mushroom_08012018_120022.csv,Validation Success,mushroom_08012018_120022.csv is moved to GoodFiles folder
+Validations,Name Validation: Wafer,2021-04-04 19:31:57.043786,mushroom_08012018_120088.csv,Validation Success,
+Validations,Name Validation: DateStamp,2021-04-04 19:31:57.043786,mushroom_08012018_120088.csv,Validation Success,
+Validations,Name Validation: TimeStamp,2021-04-04 19:31:57.043786,mushroom_08012018_120088.csv,Validation Success,
+Validations,Column Validation: Number of Columns,2021-04-04 19:31:57.074788,mushroom_08012018_120088.csv,Failed: mushroom_08012018_120088.csv has 17 columns,mushroom_08012018_120088.csv is moved to BadFiles folder
+Validations,File names and Describe validations,2021-04-04 19:31:57.074788,,Completed,
+Transform,Transforming files of GoodFiles,2021-04-04 19:31:58.964896,,Started,
+Transform,Loading Good files,2021-04-04 19:31:58.965896,,13 are loaded successfully,
+Transform,Rename of columnNames,2021-04-04 19:31:59.014899,mushroom_08012006_120010.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:31:59.150907,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.181908,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.214910,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.253913,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.284914,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.322917,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.377920,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.416922,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.453924,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.486926,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.516928,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.536929,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.559930,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.579931,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.601932,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.623934,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.645935,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.668936,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.691938,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.714939,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.736940,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.760942,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.785943,mushroom_08012006_120010.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:31:59.820945,mushroom_08012007_120011.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:31:59.847947,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.884949,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.912950,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.937952,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:31:59.969954,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.001955,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.035957,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.077960,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.120962,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.157964,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.186966,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.214968,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.246969,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.276971,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.305973,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.329974,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.357976,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.385977,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.416979,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.440980,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.465982,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.487983,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.509984,mushroom_08012007_120011.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:00.538986,mushroom_08012008_120012.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:00.566988,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.592989,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.616991,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.642992,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.664993,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.688995,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.711996,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.733997,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.757999,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.780000,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.804001,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.825002,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.848004,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.869005,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.892006,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.914008,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.937009,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.959010,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:00.980011,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.002013,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.022014,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.048015,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.069016,mushroom_08012008_120012.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:01.101018,mushroom_08012009_120013.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:01.131020,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.154021,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.176023,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.196024,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.217025,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.239026,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.263027,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.285029,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.310030,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.336032,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.371034,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.404036,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.427037,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.449038,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.469039,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.491041,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.515042,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.537043,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.581046,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.617048,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.640049,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.670051,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.692052,mushroom_08012009_120013.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:01.721054,mushroom_08012010_120014.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:01.779057,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.802058,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.824060,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.850061,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.874062,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.902064,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.926065,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.951067,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:01.979068,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.009070,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.034072,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.062073,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.089075,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.130077,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.158079,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.186080,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.216082,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.246084,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.285086,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.324088,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.354090,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.390092,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.425094,mushroom_08012010_120014.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:02.476097,mushroom_08012011_120015.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:02.498098,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.518099,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.539100,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.562102,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.586103,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.613105,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.642106,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.666108,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.690109,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.711110,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.732112,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.753113,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.773114,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.793115,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.815116,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.837118,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.859119,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.880120,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.899121,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.920122,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.942124,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.963125,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:02.985126,mushroom_08012011_120015.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:03.013128,mushroom_08012012_120016.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:03.035129,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.055130,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.077131,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.098132,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.118134,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.140135,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.163136,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.186137,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.207139,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.230140,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:03.235140,mushroom_08012012_120016.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:03.255141,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.277143,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.297144,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.318145,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.340146,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.369148,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.392149,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.415151,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.436152,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.461153,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.483154,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.505156,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.528157,mushroom_08012012_120016.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:03.556159,mushroom_08012013_120017.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:03.578160,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.602161,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.624163,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.644164,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.667165,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.690166,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.713168,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.734169,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.757170,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.779171,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:03.783172,mushroom_08012013_120017.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:03.804173,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.825174,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.848175,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.869177,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.889178,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.912179,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.937180,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.958182,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:03.980183,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.003184,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.026186,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.049187,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.069188,mushroom_08012013_120017.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:04.099190,mushroom_08012014_120018.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:04.122191,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.144192,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.164193,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.187195,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.208196,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.231197,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.254199,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.276200,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.299201,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.319202,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:04.326203,mushroom_08012014_120018.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:04.345204,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.370205,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.392206,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.421208,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.448210,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.472211,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.498213,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.521214,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.546215,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.587218,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.619219,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.657222,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.690224,mushroom_08012014_120018.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:04.738226,mushroom_08012015_120019.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:04.769228,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.800230,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.832232,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.864233,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.893235,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.925237,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.954239,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:04.984240,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.011242,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.038243,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:05.042244,mushroom_08012015_120019.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:05.062245,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.084246,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.107247,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.128249,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.149250,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.171251,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.192252,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.213253,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.234255,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.256256,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.276257,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.297258,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.319260,mushroom_08012015_120019.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:05.350261,mushroom_08012016_120020.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:05.370262,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.390264,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.412265,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.433266,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.455267,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.477269,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.497270,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.517271,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.539272,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.561273,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:05.566274,mushroom_08012016_120020.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:05.588275,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.611276,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.633277,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.656279,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.677280,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.697281,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.719282,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.740284,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.763285,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.785286,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.807287,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.831289,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.853290,mushroom_08012016_120020.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:05.882292,mushroom_08012017_120021.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:05.906293,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.928294,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.950296,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.972297,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:05.993298,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.014299,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.036301,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.057302,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.077303,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.101304,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:06.105304,mushroom_08012017_120021.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:06.126306,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.149307,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.169308,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.191309,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.216311,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.239312,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.262313,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.285315,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.307316,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.330317,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.353319,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.376320,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.400321,mushroom_08012017_120021.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Rename of columnNames,2021-04-04 19:32:06.433323,mushroom_08012018_120022.csv,If any Column name has '-' replaced with empty -> ,
+Transform,Pushing File,2021-04-04 19:32:06.457325,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.478326,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.500327,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.523328,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.543330,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.566331,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.588332,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.610333,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.634335,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.658336,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Adding quotes,2021-04-04 19:32:06.663336,mushroom_08012018_120022.csv,,Replaced ? with '?'
+Transform,Pushing File,2021-04-04 19:32:06.685338,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.711339,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.735340,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.756342,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.779343,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.801344,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.821345,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.843347,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.866348,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.889349,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.911351,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.934352,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Pushing File,2021-04-04 19:32:06.956353,mushroom_08012018_120022.csv,Transformed File is stored in 'TransformedFiles' folder,
+Transform,Transforming files of GoodFiles,2021-04-04 19:32:06.956353,,Completed,
+Merge,Merging all Transformed Files into Single File,2021-04-04 19:32:15.298830,,Started,
+Merge,Loading Schema File,2021-04-04 19:32:15.299830,schema_training.json,Successfully loaded,
+Merge,Loading Transformed Files,2021-04-04 19:32:15.314831,,13 are loaded successfully,
+Merge,Merging all files,2021-04-04 19:32:15.314831,,Started,
+Merge,Merging all files,2021-04-04 19:32:15.899865,,Completed,
+Merge,Storing file,2021-04-04 19:32:16.165880,SingleFile.csv,Stored successfully into SingleFile folder,
+Merge,Merging all Transformed Files into Single File,2021-04-04 19:32:16.165880,,Completed,
+Preprocess,Preprocessing Training data,2021-04-04 19:32:16.464897,,Started,
+Preprocess,Loading File,2021-04-04 19:32:16.813917,SingleFile.csv,Data frame created with the file,
+Preprocess,Missing values,2021-04-04 19:32:17.057931,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values of columns for      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns] are stored",
+Preprocess,Pushing File,2021-04-04 19:32:17.648965,,Missing values of columns for each file is stored in 'MissingValues_FileName' folder,
+Preprocess,Imputing missing values,2021-04-04 19:32:17.651965,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->capshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:18.038987,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->capsurface : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:18.386007,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->capcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:18.737027,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->bruises%3F : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:19.069046,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->odor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:19.381064,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillattachment : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:19.696082,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillspacing : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:20.008100,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillsize : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:20.336118,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->gillcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:20.721140,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:21.076161,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkroot : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:21.399179,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalksurfaceabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:21.727198,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalksurfacebelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:22.053217,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkcolorabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:22.376235,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->stalkcolorbelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:22.811260,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 23 columns]->veiltype : 0",Imputed with CategoricalImputer()
+Preprocess,Removing unnecessary columns,2021-04-04 19:32:23.262286,SingleFile.csv,Falsecolumns are removed,
+Preprocess,Imputing missing values,2021-04-04 19:32:23.279287,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->veilcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:23.575304,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->ringnumber : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:23.922324,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->ringtype : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:24.322346,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->sporeprintcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:24.619363,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->population : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:24.928381,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->habitat : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:32:25.232398,"     capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... population habitat class
+0         'x'        's'      'n'  ...        's'     'u'   'p'
+1         'x'        's'      'y'  ...        'n'     'g'   'e'
+2         'b'        's'      'w'  ...        'n'     'm'   'e'
+3         'x'        'y'      'w'  ...        's'     'u'   'p'
+4         'x'        's'      'g'  ...        'a'     'g'   'e'
+...       ...        ...      ...  ...        ...     ...   ...
+8119      'k'        's'      'n'  ...        'c'     'l'   'e'
+8120      'x'        's'      'n'  ...        'v'     'l'   'e'
+8121      'f'        's'      'n'  ...        'c'     'l'   'e'
+8122      'k'        'y'      'n'  ...        'v'     'l'   'p'
+8123      'x'        's'      'n'  ...        'c'     'l'   'e'
+
+[8124 rows x 22 columns]->class : 0",Imputed with CategoricalImputer()
+Preprocess,Convert categorical into numerical,2021-04-04 19:32:26.400465,"      class  capshape_'c'  capshape_'f'  ...  habitat_'p'  habitat_'u'  habitat_'w'
+0         1             0             0  ...            0            1            0
+1         0             0             0  ...            0            0            0
+2         0             0             0  ...            0            0            0
+3         1             0             0  ...            0            1            0
+4         0             0             0  ...            0            0            0
+...     ...           ...           ...  ...          ...          ...          ...
+8119      0             0             0  ...            0            0            0
+8120      0             0             0  ...            0            0            0
+8121      0             0             1  ...            0            0            0
+8122      1             0             0  ...            0            0            0
+8123      0             0             0  ...            0            0            0
+
+[8124 rows x 95 columns]","Categorical column :       class  capshape_'c'  capshape_'f'  ...  habitat_'p'  habitat_'u'  habitat_'w'
+0         1             0             0  ...            0            1            0
+1         0             0             0  ...            0            0            0
+2         0             0             0  ...            0            0            0
+3         1             0             0  ...            0            1            0
+4         0             0             0  ...            0            0            0
+...     ...           ...           ...  ...          ...          ...          ...
+8119      0             0             0  ...            0            0            0
+8120      0             0             0  ...            0            0            0
+8121      0             0             1  ...            0            0            0
+8122      1             0             0  ...            0            0            0
+8123      0             0             0  ...            0            0            0
+
+[8124 rows x 95 columns]->class",Convert to Numerical
+Preprocess,Storing File,2021-04-04 19:32:27.974555,SingleFile.csv,InputFile is stored in SingleFiles fodler,
+Preprocess,Preprocessing Training data,2021-04-04 19:32:27.974555,,Completed,
+Training Model,Model training,2021-04-04 19:32:28.901608,,Started,
+Training Model,Model training,2021-04-04 19:32:28.901608,,Error: 'SingleScaled_FileName',
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:05.387695,,Deleted,Folder Training/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:05.387695,,Started,
+Upload,Uploading File,2021-04-04 19:33:06.688770,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:08.025846,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:09.322920,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:10.626995,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:11.923069,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:13.230144,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:14.547219,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:15.919298,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:17.293376,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:18.729458,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:20.163540,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:21.566621,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:22.954700,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:22.954700,,Completed,13 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:05.387695,,Deleted,Folder Training/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:05.387695,,Started,
+Upload,Uploading File,2021-04-04 19:33:06.688770,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:08.025846,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:09.322920,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:10.626995,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:11.923069,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:13.230144,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:14.547219,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:15.919298,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:17.293376,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:18.729458,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:20.163540,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:21.566621,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:22.954700,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:22.954700,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:24.693799,,Deleted,Folder Training/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:33:24.693799,,Started,
+Upload,Uploading File,2021-04-04 19:33:48.898184,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:00.918871,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:34:00.919871,,Completed,2 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:05.387695,,Deleted,Folder Training/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:05.387695,,Started,
+Upload,Uploading File,2021-04-04 19:33:06.688770,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:08.025846,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:09.322920,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:10.626995,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:11.923069,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:13.230144,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:14.547219,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:15.919298,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:17.293376,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:18.729458,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:20.163540,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:21.566621,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:22.954700,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:22.954700,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:24.693799,,Deleted,Folder Training/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:33:24.693799,,Started,
+Upload,Uploading File,2021-04-04 19:33:48.898184,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:00.918871,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:34:00.919871,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:05.107111,,Deleted,Folder Training/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:05.107111,,Started,
+Upload,Uploading File,2021-04-04 19:34:07.735261,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.290293,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.856325,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:09.489362,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:10.568423,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:11.133456,Logs_of_TrainingModel.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.186516,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.730547,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:13.286579,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:13.286579,,Completed,9 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:05.387695,,Deleted,Folder Training/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:05.387695,,Started,
+Upload,Uploading File,2021-04-04 19:33:06.688770,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:08.025846,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:09.322920,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:10.626995,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:11.923069,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:13.230144,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:14.547219,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:15.919298,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:17.293376,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:18.729458,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:20.163540,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:21.566621,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:22.954700,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:22.954700,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:24.693799,,Deleted,Folder Training/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:33:24.693799,,Started,
+Upload,Uploading File,2021-04-04 19:33:48.898184,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:00.918871,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:34:00.919871,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:05.107111,,Deleted,Folder Training/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:05.107111,,Started,
+Upload,Uploading File,2021-04-04 19:34:07.735261,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.290293,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.856325,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:09.489362,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:10.568423,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:11.133456,Logs_of_TrainingModel.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.186516,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.730547,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:13.286579,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:13.286579,,Completed,9 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:14.859669,,Deleted,Folder Training/Clusters/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/Models/Clusters/ To: Training/Clusters/,2021-04-04 19:34:14.859669,,Started,
+Upload,Uploading From: Temp_Files/Training/Models/Clusters/ To: Training/Clusters/,2021-04-04 19:34:14.860669,,Completed,0 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:05.387695,,Deleted,Folder Training/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:05.387695,,Started,
+Upload,Uploading File,2021-04-04 19:33:06.688770,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:08.025846,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:09.322920,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:10.626995,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:11.923069,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:13.230144,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:14.547219,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:15.919298,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:17.293376,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:18.729458,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:20.163540,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:21.566621,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:22.954700,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:22.954700,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:24.693799,,Deleted,Folder Training/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:33:24.693799,,Started,
+Upload,Uploading File,2021-04-04 19:33:48.898184,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:00.918871,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:34:00.919871,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:05.107111,,Deleted,Folder Training/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:05.107111,,Started,
+Upload,Uploading File,2021-04-04 19:34:07.735261,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.290293,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.856325,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:09.489362,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:10.568423,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:11.133456,Logs_of_TrainingModel.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.186516,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.730547,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:13.286579,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:13.286579,,Completed,9 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:14.859669,,Deleted,Folder Training/Clusters/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/Models/Clusters/ To: Training/Clusters/,2021-04-04 19:34:14.859669,,Started,
+Upload,Uploading From: Temp_Files/Training/Models/Clusters/ To: Training/Clusters/,2021-04-04 19:34:14.860669,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:15.426701,,Deleted,Folder Training/BestModels/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/Models/BestModels/ To: Training/BestModels/,2021-04-04 19:34:15.426701,,Started,
+Upload,Uploading From: Temp_Files/Training/Models/BestModels/ To: Training/BestModels/,2021-04-04 19:34:15.427701,,Completed,0 files are uploaded successfully
+Training Model,Model training,2021-04-04 19:32:28.901608,,Started,
+Training Model,Model training,2021-04-04 19:32:28.901608,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:44:00.907189,,Started,
+Training Model,Model training,2021-04-04 19:44:00.907189,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:32:28.901608,,Started,
+Training Model,Model training,2021-04-04 19:32:28.901608,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:44:00.907189,,Started,
+Training Model,Model training,2021-04-04 19:44:00.907189,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:44:07.187548,,Started,
+Training Model,Model training,2021-04-04 19:44:07.187548,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:32:28.901608,,Started,
+Training Model,Model training,2021-04-04 19:32:28.901608,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:44:00.907189,,Started,
+Training Model,Model training,2021-04-04 19:44:00.907189,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:44:07.187548,,Started,
+Training Model,Model training,2021-04-04 19:44:07.187548,,Error: 'SingleScaled_FileName',
+Training Model,Model training,2021-04-04 19:46:49.468830,,Started,
+Training Model,Loading scaled data,2021-04-04 19:46:49.996860,InputFile.csv,Loaded,
+Training Model,k-means Cluster,2021-04-04 19:46:50.183871,,Started,
+Training Model,k-means Cluster,2021-04-04 19:47:19.208531,,Save cluster fig path: Temp_Files/Training/Models/Clusters/K-Means_Elbow.PNG,
+Training Model,k-means Cluster,2021-04-04 19:47:19.232532,,Number of clusters: 4,
+Training Model,k-means Cluster,2021-04-04 19:47:22.494719,,Applying k-means cluster on Predictors data,
+Training Model,k-means Cluster,2021-04-04 19:47:22.518720,,Completed,Storing k-means cluster path: Temp_Files/Training/Models/Clusters/KMeans_Cluster.sav
+Training Model,Best Model Finding,2021-04-04 19:47:22.518720,,Started,
+Training Model,Best Model Finding,2021-04-04 19:47:22.597725,,Extracting data of cluster-1,
+Training Model,Best Model Finding,2021-04-04 19:47:22.666729,,Train_Test_Split of cluster-1,
+Training Model,KNN model training,2021-04-04 19:47:22.666729,,Started,
+Training Model,KNN model training - Best params,2021-04-04 19:57:31.315541,,"algorithm:ball_tree, leaf_size:10, n_neighbors:4, p:1",
+Training Model,KNN model training,2021-04-04 19:57:33.074642,,Model is trained for cluster-1,
+Training Model,KNN model training,2021-04-04 19:57:33.130645,,KNN Score for cluster-1: 1.0,
+Training Model,KNN model training,2021-04-04 19:57:33.130645,,Comleted,
+Training Model,RFC model training,2021-04-04 19:57:33.130645,,Started,
+Training Model,RFC model training - Best params,2021-04-04 20:00:07.407469,,"criterion:gini, max_depth:3, max_features:auto, n_estimators:100",
+Training Model,RFC model training,2021-04-04 20:00:08.526533,,Model is trained for cluster-1,
+Training Model,RFC model training,2021-04-04 20:00:08.526533,,Comleted,
+Training Model,RFC model training,2021-04-04 20:00:08.534534,,RFC Score for cluster-1: 0.9498269896193772,
+Training Model,Best Model Finding,2021-04-04 20:00:08.534534,,"Best Model for cluster-1 -> KNeighborsClassifier(algorithm='ball_tree', leaf_size=10, n_neighbors=4, p=1)",
+Training Model,Best Model Finding,2021-04-04 20:00:08.600538,,"Storing KNeighborsClassifier(algorithm='ball_tree', leaf_size=10, n_neighbors=4, p=1) model at: Temp_Files/Training/Models/BestModels/Model_for_Cluster_KNN1.sav",
+Training Model,Best Model Finding,2021-04-04 20:00:08.610538,,Extracting data of cluster-3,
+Training Model,Best Model Finding,2021-04-04 20:00:08.630539,,Train_Test_Split of cluster-3,
+Training Model,KNN model training,2021-04-04 20:00:08.630539,,Started,
+Training Model,KNN model training - Best params,2021-04-04 20:04:42.917228,,"algorithm:ball_tree, leaf_size:10, n_neighbors:4, p:1",
+Training Model,KNN model training,2021-04-04 20:04:43.495261,,Model is trained for cluster-3,
+Training Model,KNN model training,2021-04-04 20:04:43.498261,,KNN Score for cluster-3: 1.0,
+Training Model,KNN model training,2021-04-04 20:04:43.498261,,Comleted,
+Training Model,RFC model training,2021-04-04 20:04:43.498261,,Started,
+Training Model,RFC model training - Best params,2021-04-04 20:06:18.502695,,"criterion:gini, max_depth:2, max_features:auto, n_estimators:10",
+Training Model,RFC model training,2021-04-04 20:06:18.603701,,Model is trained for cluster-3,
+Training Model,RFC model training,2021-04-04 20:06:18.603701,,Comleted,
+Training Model,RFC model training,2021-04-04 20:06:18.606701,,RFC Score for cluster-3: 1.0,
+Training Model,Best Model Finding,2021-04-04 20:06:18.607701,,"Best Model for cluster-3 -> RandomForestClassifier(max_depth=2, n_estimators=10)",
+Training Model,Best Model Finding,2021-04-04 20:06:18.639703,,"Storing RandomForestClassifier(max_depth=2, n_estimators=10) model at: Temp_Files/Training/Models/BestModels/Model_for_Cluster_RFC3.sav",
+Training Model,Best Model Finding,2021-04-04 20:06:18.649703,,Extracting data of cluster-2,
+Training Model,Best Model Finding,2021-04-04 20:06:18.666704,,Train_Test_Split of cluster-2,
+Training Model,KNN model training,2021-04-04 20:06:18.666704,,Started,
+Training Model,KNN model training - Best params,2021-04-04 20:08:50.284376,,"algorithm:ball_tree, leaf_size:10, n_neighbors:4, p:1",
+Training Model,KNN model training,2021-04-04 20:08:50.551392,,Model is trained for cluster-2,
+Training Model,KNN model training,2021-04-04 20:08:50.554392,,KNN Score for cluster-2: 1.0,
+Training Model,KNN model training,2021-04-04 20:08:50.554392,,Comleted,
+Training Model,RFC model training,2021-04-04 20:08:50.554392,,Started,
+Training Model,RFC model training - Best params,2021-04-04 20:10:28.312983,,"criterion:gini, max_depth:2, max_features:auto, n_estimators:10",
+Training Model,RFC model training,2021-04-04 20:10:28.418989,,Model is trained for cluster-2,
+Training Model,RFC model training,2021-04-04 20:10:28.418989,,Comleted,
+Training Model,RFC model training,2021-04-04 20:10:28.421989,,RFC Score for cluster-2: 1.0,
+Training Model,Best Model Finding,2021-04-04 20:10:28.421989,,"Best Model for cluster-2 -> RandomForestClassifier(max_depth=2, n_estimators=10)",
+Training Model,Best Model Finding,2021-04-04 20:10:28.462992,,"Storing RandomForestClassifier(max_depth=2, n_estimators=10) model at: Temp_Files/Training/Models/BestModels/Model_for_Cluster_RFC2.sav",
+Training Model,Best Model Finding,2021-04-04 20:10:28.472992,,Extracting data of cluster-0,
+Training Model,Best Model Finding,2021-04-04 20:10:28.493994,,Train_Test_Split of cluster-0,
+Training Model,KNN model training,2021-04-04 20:10:28.493994,,Started,
+Training Model,KNN model training - Best params,2021-04-04 20:15:13.094272,,"algorithm:ball_tree, leaf_size:10, n_neighbors:4, p:1",
+Training Model,KNN model training,2021-04-04 20:15:13.788311,,Model is trained for cluster-0,
+Training Model,KNN model training,2021-04-04 20:15:13.797312,,KNN Score for cluster-0: 1.0,
+Training Model,KNN model training,2021-04-04 20:15:13.797312,,Comleted,
+Training Model,RFC model training,2021-04-04 20:15:13.797312,,Started,
+Training Model,RFC model training - Best params,2021-04-04 20:17:28.709028,,"criterion:gini, max_depth:2, max_features:auto, n_estimators:130",
+Training Model,RFC model training,2021-04-04 20:17:30.063106,,Model is trained for cluster-0,
+Training Model,RFC model training,2021-04-04 20:17:30.063106,,Comleted,
+Training Model,RFC model training,2021-04-04 20:17:30.070106,,RFC Score for cluster-0: 1.0,
+Training Model,Best Model Finding,2021-04-04 20:17:30.070106,,"Best Model for cluster-0 -> RandomForestClassifier(max_depth=2, n_estimators=130)",
+Training Model,Best Model Finding,2021-04-04 20:17:30.478130,,"Storing RandomForestClassifier(max_depth=2, n_estimators=130) model at: Temp_Files/Training/Models/BestModels/Model_for_Cluster_RFC0.sav",
+Training Model,Best Model Finding,2021-04-04 20:17:30.480130,,Completed,
+Training Model,Model training,2021-04-04 20:17:30.480130,,Completed,

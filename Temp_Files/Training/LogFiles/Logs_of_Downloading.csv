@@ -1,0 +1,93 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:31:31.501325,,Started,
+AWS Connection,Session Connection,2021-04-04 19:31:31.557328,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:31:34.166478,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:31:34.195479,,Client connection Successful,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:34.195479,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:37.439665,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:41.777913,Training/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.337945,Training/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:42.910978,Training/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:43.483011,Training/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.084045,Training/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:44.722081,Training/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.319116,Training/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:45.883148,Training/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:46.459181,Training/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.065215,Training/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:47.645249,Training/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:48.468296,Training/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.056329,Training/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:49.630362,Training/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.209395,Training/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:31:50.797429,Training/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Training/RawFiles/ To: Temp_Files/Training/RawFiles/,2021-04-04 19:31:50.797429,,Completed,16 files are downloaded successfully
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:51.473468,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:31:52.117504,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:31:55.928722,Training/SchemaFile/schema_training.json,Downloaded Successfully,
+Download,Downloading From: Training/SchemaFile/ To: Temp_Files/Training/SchemaFile/,2021-04-04 19:31:55.928722,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:32:29.015615,,Started,
+AWS Connection,Session Connection,2021-04-04 19:32:29.074618,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:32:29.969669,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:32:29.989671,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:38.397151,,Deleted,Folder Training/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:38.397151,,Started,
+Upload,Uploading File,2021-04-04 19:32:39.901237,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:41.255315,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:42.559390,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:43.882465,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:45.171539,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:46.434611,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:47.741686,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:49.000758,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:50.302832,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:51.572905,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:52.825977,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:54.103050,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:32:55.467128,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/GoodFiles/ To: Training/GoodFiles/,2021-04-04 19:32:55.467128,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:32:57.521245,,Deleted,Folder Training/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:32:57.522245,,Started,
+Upload,Uploading File,2021-04-04 19:32:58.823320,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:00.128394,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:01.164454,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/BadFiles/ To: Training/BadFiles/,2021-04-04 19:33:01.164454,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:05.387695,,Deleted,Folder Training/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:05.387695,,Started,
+Upload,Uploading File,2021-04-04 19:33:06.688770,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:08.025846,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:09.322920,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:10.626995,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:11.923069,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:13.230144,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:14.547219,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:15.919298,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:17.293376,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:18.729458,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:20.163540,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:21.566621,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:33:22.954700,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/TransformedFiles/ To: Training/TransformedFiles/,2021-04-04 19:33:22.954700,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:33:24.693799,,Deleted,Folder Training/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:33:24.693799,,Started,
+Upload,Uploading File,2021-04-04 19:33:48.898184,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:00.918871,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/SingleFile/ To: Training/SingleFile/,2021-04-04 19:34:00.919871,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:05.107111,,Deleted,Folder Training/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:05.107111,,Started,
+Upload,Uploading File,2021-04-04 19:34:07.735261,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.290293,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:08.856325,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:09.489362,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:10.568423,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:11.133456,Logs_of_TrainingModel.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.186516,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:12.730547,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:34:13.286579,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Training/LogFiles/ To: Training/LogFiles/,2021-04-04 19:34:13.286579,,Completed,9 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:14.859669,,Deleted,Folder Training/Clusters/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/Models/Clusters/ To: Training/Clusters/,2021-04-04 19:34:14.859669,,Started,
+Upload,Uploading From: Temp_Files/Training/Models/Clusters/ To: Training/Clusters/,2021-04-04 19:34:14.860669,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:34:15.426701,,Deleted,Folder Training/BestModels/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Training/Models/BestModels/ To: Training/BestModels/,2021-04-04 19:34:15.426701,,Started,
+Upload,Uploading From: Temp_Files/Training/Models/BestModels/ To: Training/BestModels/,2021-04-04 19:34:15.427701,,Completed,0 files are uploaded successfully
