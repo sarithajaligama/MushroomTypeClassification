@@ -1,0 +1,1963 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+Preprocess,Preprocessing Training data,2021-04-04 19:35:43.565742,,Started,
+Preprocess,Loading File,2021-04-04 19:35:43.689750,SingleFile.csv,Data frame created with the file,
+Preprocess,Missing values,2021-04-04 19:35:43.803756,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values of columns for      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns] are stored",
+Preprocess,Pushing File,2021-04-04 19:35:44.118774,,Missing values of columns for each file is stored in 'MissingValues_FileName' folder,
+Preprocess,Imputing missing values,2021-04-04 19:35:44.122774,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:44.456793,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capsurface : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:44.747810,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:45.055828,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->bruises%3F : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:45.459851,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->odor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:45.829872,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillattachment : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:46.126889,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillspacing : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:46.420906,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillsize : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:46.716923,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:47.003939,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:47.377961,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkroot : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:47.678978,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalksurfaceabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:47.992996,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalksurfacebelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:48.286012,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkcolorabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:48.584030,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkcolorbelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:48.890047,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->veiltype : 0",Imputed with CategoricalImputer()
+Preprocess,Removing unnecessary columns,2021-04-04 19:35:49.183064,SingleFile.csv,Falsecolumns are removed,
+Preprocess,Imputing missing values,2021-04-04 19:35:49.199065,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->veilcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:49.476081,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->ringnumber : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:49.753096,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->ringtype : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:50.033112,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->sporeprintcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:50.322129,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->population : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 19:35:50.618146,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->habitat : 0",Imputed with CategoricalImputer()
+Preprocess,Convert categorical into numerical,2021-04-04 19:35:51.529198,"      capshape_'c'  capshape_'f'  ...  habitat_'u'  habitat_'w'
+0                0             0  ...            1            0
+1                0             0  ...            0            0
+2                0             0  ...            0            0
+3                0             0  ...            1            0
+4                0             0  ...            0            0
+...            ...           ...  ...          ...          ...
+8119             0             0  ...            0            0
+8120             0             0  ...            0            0
+8121             0             1  ...            0            0
+8122             0             0  ...            0            0
+8123             0             0  ...            0            0
+
+[8124 rows x 94 columns]","Categorical column :       capshape_'c'  capshape_'f'  ...  habitat_'u'  habitat_'w'
+0                0             0  ...            1            0
+1                0             0  ...            0            0
+2                0             0  ...            0            0
+3                0             0  ...            1            0
+4                0             0  ...            0            0
+...            ...           ...  ...          ...          ...
+8119             0             0  ...            0            0
+8120             0             0  ...            0            0
+8121             0             1  ...            0            0
+8122             0             0  ...            0            0
+8123             0             0  ...            0            0
+
+[8124 rows x 94 columns]->habitat",Convert to Numerical
+Preprocess,Storing File,2021-04-04 19:35:53.187293,SingleFile.csv,InputFile is stored in SingleFiles fodler,
+Preprocess,Preprocessing Training data,2021-04-04 19:35:53.187293,,Completed,
+Preprocess,Preprocessing Training data,2021-04-04 20:36:32.482449,,Started,
+Preprocess,Loading File,2021-04-04 20:36:32.657459,SingleFile.csv,Data frame created with the file,
+Preprocess,Missing values,2021-04-04 20:36:32.836469,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values of columns for      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns] are stored",
+Preprocess,Pushing File,2021-04-04 20:36:33.434503,,Missing values of columns for each file is stored in 'MissingValues_FileName' folder,
+Preprocess,Imputing missing values,2021-04-04 20:36:33.440503,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:34.140543,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capsurface : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:34.623571,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:35.274608,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->bruises%3F : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:35.773637,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->odor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:36.431674,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillattachment : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:37.535738,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillspacing : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:38.201776,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillsize : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:38.649801,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:39.098827,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:39.520851,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkroot : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:39.875871,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalksurfaceabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:40.231892,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalksurfacebelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:40.825926,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkcolorabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:41.353956,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkcolorbelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:41.767980,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->veiltype : 0",Imputed with CategoricalImputer()
+Preprocess,Removing unnecessary columns,2021-04-04 20:36:42.327012,SingleFile.csv,Falsecolumns are removed,
+Preprocess,Imputing missing values,2021-04-04 20:36:42.354013,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->veilcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:42.818040,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->ringnumber : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:43.289067,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->ringtype : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:43.888101,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->sporeprintcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:44.409131,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->population : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:36:44.964162,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->habitat : 0",Imputed with CategoricalImputer()
+Preprocess,Convert categorical into numerical,2021-04-04 20:36:46.310239,"      capshape_'c'  capshape_'f'  ...  habitat_'u'  habitat_'w'
+0                0             0  ...            1            0
+1                0             0  ...            0            0
+2                0             0  ...            0            0
+3                0             0  ...            1            0
+4                0             0  ...            0            0
+...            ...           ...  ...          ...          ...
+8119             0             0  ...            0            0
+8120             0             0  ...            0            0
+8121             0             1  ...            0            0
+8122             0             0  ...            0            0
+8123             0             0  ...            0            0
+
+[8124 rows x 94 columns]","Categorical column :       capshape_'c'  capshape_'f'  ...  habitat_'u'  habitat_'w'
+0                0             0  ...            1            0
+1                0             0  ...            0            0
+2                0             0  ...            0            0
+3                0             0  ...            1            0
+4                0             0  ...            0            0
+...            ...           ...  ...          ...          ...
+8119             0             0  ...            0            0
+8120             0             0  ...            0            0
+8121             0             1  ...            0            0
+8122             0             0  ...            0            0
+8123             0             0  ...            0            0
+
+[8124 rows x 94 columns]->habitat",Convert to Numerical
+Preprocess,Storing File,2021-04-04 20:36:49.352413,SingleFile.csv,InputFile is stored in SingleFiles fodler,
+Preprocess,Preprocessing Training data,2021-04-04 20:36:49.352413,,Completed,
+Preprocess,Preprocessing Training data,2021-04-04 20:45:07.879928,,Started,
+Preprocess,Loading File,2021-04-04 20:45:08.046937,SingleFile.csv,Data frame created with the file,
+Preprocess,Missing values,2021-04-04 20:45:08.169944,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values of columns for      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns] are stored",
+Preprocess,Pushing File,2021-04-04 20:45:08.468961,,Missing values of columns for each file is stored in 'MissingValues_FileName' folder,
+Preprocess,Imputing missing values,2021-04-04 20:45:08.471961,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:08.754978,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capsurface : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:09.066996,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->capcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:09.617027,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->bruises%3F : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:10.052052,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->odor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:10.331068,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillattachment : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:10.694089,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillspacing : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:11.102112,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillsize : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:11.590140,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->gillcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:11.979162,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkshape : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:12.300180,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkroot : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:12.625199,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalksurfaceabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:12.950218,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalksurfacebelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:13.231234,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkcolorabovering : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:13.551252,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->stalkcolorbelowring : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:13.819267,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 22 columns]->veiltype : 0",Imputed with CategoricalImputer()
+Preprocess,Removing unnecessary columns,2021-04-04 20:45:14.096283,SingleFile.csv,Falsecolumns are removed,
+Preprocess,Imputing missing values,2021-04-04 20:45:14.111284,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->veilcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:14.371299,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->ringnumber : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:14.630314,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->ringtype : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:14.942332,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->sporeprintcolor : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:15.322353,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->population : 0",Imputed with CategoricalImputer()
+Preprocess,Imputing missing values,2021-04-04 20:45:15.596369,"     capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]","Missing values in      capshape capsurface capcolor  ... sporeprintcolor population habitat
+0         'x'        's'      'n'  ...             'k'        's'     'u'
+1         'x'        's'      'y'  ...             'n'        'n'     'g'
+2         'b'        's'      'w'  ...             'n'        'n'     'm'
+3         'x'        'y'      'w'  ...             'k'        's'     'u'
+4         'x'        's'      'g'  ...             'n'        'a'     'g'
+...       ...        ...      ...  ...             ...        ...     ...
+8119      'k'        's'      'n'  ...             'b'        'c'     'l'
+8120      'x'        's'      'n'  ...             'b'        'v'     'l'
+8121      'f'        's'      'n'  ...             'b'        'c'     'l'
+8122      'k'        'y'      'n'  ...             'w'        'v'     'l'
+8123      'x'        's'      'n'  ...             'o'        'c'     'l'
+
+[8124 rows x 21 columns]->habitat : 0",Imputed with CategoricalImputer()
+Preprocess,Convert categorical into numerical,2021-04-04 20:45:16.519422,"      capshape_'c'  capshape_'f'  ...  habitat_'u'  habitat_'w'
+0                0             0  ...            1            0
+1                0             0  ...            0            0
+2                0             0  ...            0            0
+3                0             0  ...            1            0
+4                0             0  ...            0            0
+...            ...           ...  ...          ...          ...
+8119             0             0  ...            0            0
+8120             0             0  ...            0            0
+8121             0             1  ...            0            0
+8122             0             0  ...            0            0
+8123             0             0  ...            0            0
+
+[8124 rows x 94 columns]","Categorical column :       capshape_'c'  capshape_'f'  ...  habitat_'u'  habitat_'w'
+0                0             0  ...            1            0
+1                0             0  ...            0            0
+2                0             0  ...            0            0
+3                0             0  ...            1            0
+4                0             0  ...            0            0
+...            ...           ...  ...          ...          ...
+8119             0             0  ...            0            0
+8120             0             0  ...            0            0
+8121             0             1  ...            0            0
+8122             0             0  ...            0            0
+8123             0             0  ...            0            0
+
+[8124 rows x 94 columns]->habitat",Convert to Numerical
+Preprocess,Storing File,2021-04-04 20:45:18.512536,SingleFile.csv,InputFile is stored in SingleFiles fodler,
+Preprocess,Preprocessing Training data,2021-04-04 20:45:18.512536,,Completed,

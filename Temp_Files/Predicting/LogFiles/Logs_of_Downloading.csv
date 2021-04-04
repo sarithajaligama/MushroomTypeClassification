@@ -1,0 +1,284 @@
+Task_Name,Task_Desc,Date_Time,File_Name,Log_Message,Action_Taken
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:35:02.261380,,Started,
+AWS Connection,Session Connection,2021-04-04 19:35:02.335384,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:35:04.902531,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:35:04.925532,,Client connection Successful,
+Download,Downloading From: Predicting/RawFiles/ To: Temp_Files/Predicting/RawFiles/,2021-04-04 19:35:04.925532,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:35:07.923704,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:35:12.199948,Predicting/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:12.982993,Predicting/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:13.577027,Predicting/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:14.151060,Predicting/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:14.712092,Predicting/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:15.350129,Predicting/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:15.930162,Predicting/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:16.475193,Predicting/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:17.018224,Predicting/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:17.758266,Predicting/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:18.372302,Predicting/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:18.952335,Predicting/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:19.518367,Predicting/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:20.104401,Predicting/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:20.683434,Predicting/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 19:35:21.268467,Predicting/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Predicting/RawFiles/ To: Temp_Files/Predicting/RawFiles/,2021-04-04 19:35:21.268467,,Completed,16 files are downloaded successfully
+Download,Downloading From: Predicting/SchemaFile/ To: Temp_Files/Predicting/SchemaFile/,2021-04-04 19:35:21.826499,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 19:35:22.447535,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 19:35:26.306755,Predicting/SchemaFile/schema_prediction.json,Downloaded Successfully,
+Download,Downloading From: Predicting/SchemaFile/ To: Temp_Files/Predicting/SchemaFile/,2021-04-04 19:35:26.306755,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 19:35:54.039342,,Started,
+AWS Connection,Session Connection,2021-04-04 19:35:54.101345,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 19:35:54.960394,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 19:35:54.981395,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 19:36:03.489882,,Deleted,Folder Predicting/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/GoodFiles/ To: Predicting/GoodFiles/,2021-04-04 19:36:03.489882,,Started,
+Upload,Uploading File,2021-04-04 19:36:04.758955,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:06.049028,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:07.343102,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:08.620176,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:09.900249,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:11.173322,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:12.466396,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:13.744469,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:14.996540,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:16.251612,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:17.535685,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:18.835760,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:20.130834,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/GoodFiles/ To: Predicting/GoodFiles/,2021-04-04 19:36:20.130834,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:36:22.271956,,Deleted,Folder Predicting/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/BadFiles/ To: Predicting/BadFiles/,2021-04-04 19:36:22.271956,,Started,
+Upload,Uploading File,2021-04-04 19:36:23.570031,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:24.893106,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:25.912165,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/BadFiles/ To: Predicting/BadFiles/,2021-04-04 19:36:25.912165,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:36:30.153407,,Deleted,Folder Predicting/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/TransformedFiles/ To: Predicting/TransformedFiles/,2021-04-04 19:36:30.153407,,Started,
+Upload,Uploading File,2021-04-04 19:36:31.475483,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:32.802559,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:34.115634,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:35.595718,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:37.267814,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:38.691896,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:40.291987,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:41.673066,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:43.035144,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:44.377221,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:45.668295,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:46.975369,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:36:48.332447,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/TransformedFiles/ To: Predicting/TransformedFiles/,2021-04-04 19:36:48.332447,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:36:49.710526,,Deleted,Folder Predicting/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/SingleFile/ To: Predicting/SingleFile/,2021-04-04 19:36:49.710526,,Started,
+Upload,Uploading File,2021-04-04 19:37:13.248872,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:24.564519,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/SingleFile/ To: Predicting/SingleFile/,2021-04-04 19:37:24.564519,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:37:28.674754,,Deleted,Folder Predicting/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/LogFiles/ To: Predicting/LogFiles/,2021-04-04 19:37:28.674754,,Started,
+Upload,Uploading File,2021-04-04 19:37:31.226900,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:31.762931,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:32.335964,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:32.867994,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:33.406025,Logs_of_Predictions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:34.523089,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:35.552148,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:36.108180,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 19:37:36.677212,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/LogFiles/ To: Predicting/LogFiles/,2021-04-04 19:37:36.677212,,Completed,9 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:37:37.618266,,Deleted,Folder Predicting/Clusters/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Models/Clusters/ To: Predicting/Clusters/,2021-04-04 19:37:37.618266,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Models/Clusters/ To: Predicting/Clusters/,2021-04-04 19:37:37.619266,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:37:38.144296,,Deleted,Folder Predicting/BestModels/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Models/BestModels/ To: Predicting/BestModels/,2021-04-04 19:37:38.144296,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Models/BestModels/ To: Predicting/BestModels/,2021-04-04 19:37:38.145296,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 19:37:38.720329,,Deleted,Folder Predicting/Predictions/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Predictions/ To: Predicting/Predictions/,2021-04-04 19:37:38.720329,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Predictions/ To: Predicting/Predictions/,2021-04-04 19:37:38.720329,,Completed,0 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 20:35:44.505704,,Started,
+AWS Connection,Session Connection,2021-04-04 20:35:44.607710,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 20:35:47.986904,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 20:35:48.016905,,Client connection Successful,
+Download,Downloading From: Predicting/RawFiles/ To: Temp_Files/Predicting/RawFiles/,2021-04-04 20:35:48.016905,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 20:35:51.521106,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 20:35:55.876355,Predicting/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:35:56.726403,Predicting/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:35:57.299436,Predicting/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:35:57.868469,Predicting/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:35:58.439501,Predicting/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:35:59.006534,Predicting/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:35:59.762577,Predicting/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:00.355611,Predicting/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:00.917643,Predicting/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:01.479675,Predicting/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:02.051708,Predicting/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:02.629741,Predicting/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:03.191773,Predicting/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:03.767806,Predicting/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:04.364840,Predicting/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:36:04.948874,Predicting/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Predicting/RawFiles/ To: Temp_Files/Predicting/RawFiles/,2021-04-04 20:36:04.948874,,Completed,16 files are downloaded successfully
+Download,Downloading From: Predicting/SchemaFile/ To: Temp_Files/Predicting/SchemaFile/,2021-04-04 20:36:05.742919,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 20:36:06.412957,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 20:36:10.324181,Predicting/SchemaFile/schema_prediction.json,Downloaded Successfully,
+Download,Downloading From: Predicting/SchemaFile/ To: Temp_Files/Predicting/SchemaFile/,2021-04-04 20:36:10.324181,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 20:37:07.089428,,Started,
+AWS Connection,Session Connection,2021-04-04 20:37:07.161432,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 20:37:08.097486,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 20:37:08.133488,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 20:37:16.599972,,Deleted,Folder Predicting/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/GoodFiles/ To: Predicting/GoodFiles/,2021-04-04 20:37:16.599972,,Started,
+Upload,Uploading File,2021-04-04 20:37:17.877045,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:19.176119,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:20.444192,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:21.697264,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:22.970336,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:24.235409,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:25.499481,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:26.768554,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:28.026626,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:29.289698,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:30.568771,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:31.829843,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:33.088915,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/GoodFiles/ To: Predicting/GoodFiles/,2021-04-04 20:37:33.088915,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:37:35.291041,,Deleted,Folder Predicting/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/BadFiles/ To: Predicting/BadFiles/,2021-04-04 20:37:35.291041,,Started,
+Upload,Uploading File,2021-04-04 20:37:36.568114,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:38.082201,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:39.111260,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/BadFiles/ To: Predicting/BadFiles/,2021-04-04 20:37:39.111260,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:37:43.506511,,Deleted,Folder Predicting/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/TransformedFiles/ To: Predicting/TransformedFiles/,2021-04-04 20:37:43.506511,,Started,
+Upload,Uploading File,2021-04-04 20:37:44.763583,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:46.010654,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:47.313729,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:48.565800,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:49.889876,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:51.263955,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:52.515026,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:53.759097,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:55.023170,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:56.311243,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:57.569315,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:37:58.820387,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:00.114461,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/TransformedFiles/ To: Predicting/TransformedFiles/,2021-04-04 20:38:00.114461,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:38:01.932565,,Deleted,Folder Predicting/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/SingleFile/ To: Predicting/SingleFile/,2021-04-04 20:38:01.932565,,Started,
+Upload,Uploading File,2021-04-04 20:38:25.200896,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:36.535544,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/SingleFile/ To: Predicting/SingleFile/,2021-04-04 20:38:36.535544,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:38:40.887793,,Deleted,Folder Predicting/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/LogFiles/ To: Predicting/LogFiles/,2021-04-04 20:38:40.887793,,Started,
+Upload,Uploading File,2021-04-04 20:38:49.114263,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:50.136322,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:50.910366,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:51.452397,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:52.001429,Logs_of_Predictions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:53.777530,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:55.559632,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:56.340677,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:38:56.869707,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/LogFiles/ To: Predicting/LogFiles/,2021-04-04 20:38:56.869707,,Completed,9 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:38:58.390794,,Deleted,Folder Predicting/Clusters/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Models/Clusters/ To: Predicting/Clusters/,2021-04-04 20:38:58.390794,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Models/Clusters/ To: Predicting/Clusters/,2021-04-04 20:38:58.392794,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:38:59.685868,,Deleted,Folder Predicting/BestModels/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Models/BestModels/ To: Predicting/BestModels/,2021-04-04 20:38:59.685868,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Models/BestModels/ To: Predicting/BestModels/,2021-04-04 20:38:59.686868,,Completed,0 files are uploaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 20:44:18.773119,,Started,
+AWS Connection,Session Connection,2021-04-04 20:44:18.852123,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 20:44:19.849180,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 20:44:19.869182,,Client connection Successful,
+Download,Downloading From: Predicting/RawFiles/ To: Temp_Files/Predicting/RawFiles/,2021-04-04 20:44:19.869182,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 20:44:23.056364,,16 files are available,Downloading Files
+Download,Downloading File,2021-04-04 20:44:27.349609,Predicting/RawFiles/mushroom_08012006_120010.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:28.981703,Predicting/RawFiles/mushroom_08012007_120011.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:29.557736,Predicting/RawFiles/mushroom_08012008_120012.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:30.133769,Predicting/RawFiles/mushroom_08012009_120013.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:30.710802,Predicting/RawFiles/mushroom_08012010_120014.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:31.304836,Predicting/RawFiles/mushroom_08012011_120015.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:31.981874,Predicting/RawFiles/mushroom_08012012_120016.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:32.679914,Predicting/RawFiles/mushroom_08012013_120017.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:33.313951,Predicting/RawFiles/mushroom_08012014_120018.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:33.877983,Predicting/RawFiles/mushroom_08012015_120019.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:34.461016,Predicting/RawFiles/mushroom_08012016_120.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:35.037049,Predicting/RawFiles/mushroom_08012016_120020.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:35.621083,Predicting/RawFiles/mushroom_08012017_120021.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:36.218117,Predicting/RawFiles/mushroom_08012017_1201.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:36.764148,Predicting/RawFiles/mushroom_08012018_120022.csv,Downloaded Successfully,
+Download,Downloading File,2021-04-04 20:44:37.333180,Predicting/RawFiles/mushroom_08012018_120088.csv,Downloaded Successfully,
+Download,Downloading From: Predicting/RawFiles/ To: Temp_Files/Predicting/RawFiles/,2021-04-04 20:44:37.334181,,Completed,16 files are downloaded successfully
+Download,Downloading From: Predicting/SchemaFile/ To: Temp_Files/Predicting/SchemaFile/,2021-04-04 20:44:38.195230,,Started,
+Download,Access Files from Bucket: mushroomclassification,2021-04-04 20:44:38.850267,,1 files are available,Downloading Files
+Download,Downloading File,2021-04-04 20:44:42.792493,Predicting/SchemaFile/schema_prediction.json,Downloaded Successfully,
+Download,Downloading From: Predicting/SchemaFile/ To: Temp_Files/Predicting/SchemaFile/,2021-04-04 20:44:42.792493,,Completed,1 files are downloaded successfully
+AWS Connection,"Session, Resource, Client connections",2021-04-04 20:45:31.607285,,Started,
+AWS Connection,Session Connection,2021-04-04 20:45:31.697290,,Session connection Successful,
+AWS Connection,Resource Connection,2021-04-04 20:45:32.535338,,Resource connection Successful,
+AWS Connection,Client Connection,2021-04-04 20:45:32.559339,,Client connection Successful,
+Upload,Deleting Folder from Bucket,2021-04-04 20:45:41.496850,,Deleted,Folder Predicting/GoodFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/GoodFiles/ To: Predicting/GoodFiles/,2021-04-04 20:45:41.496850,,Started,
+Upload,Uploading File,2021-04-04 20:45:42.786924,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:44.284010,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:45.561083,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:46.960163,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:48.340242,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:49.587313,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:50.822384,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:52.183462,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:53.429533,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:54.779610,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:56.220693,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:57.566770,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:45:58.831842,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/GoodFiles/ To: Predicting/GoodFiles/,2021-04-04 20:45:58.832842,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:46:01.452992,,Deleted,Folder Predicting/BadFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/BadFiles/ To: Predicting/BadFiles/,2021-04-04 20:46:01.452992,,Started,
+Upload,Uploading File,2021-04-04 20:46:02.748066,mushroom_08012016_120.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:04.095143,mushroom_08012017_1201.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:05.246209,mushroom_08012018_120088.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/BadFiles/ To: Predicting/BadFiles/,2021-04-04 20:46:05.246209,,Completed,3 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:46:10.239494,,Deleted,Folder Predicting/TransformedFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/TransformedFiles/ To: Predicting/TransformedFiles/,2021-04-04 20:46:10.239494,,Started,
+Upload,Uploading File,2021-04-04 20:46:11.514567,mushroom_08012006_120010.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:12.829643,mushroom_08012007_120011.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:14.076714,mushroom_08012008_120012.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:15.351787,mushroom_08012009_120013.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:16.631860,mushroom_08012010_120014.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:17.887932,mushroom_08012011_120015.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:19.152004,mushroom_08012012_120016.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:20.400076,mushroom_08012013_120017.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:21.676149,mushroom_08012014_120018.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:23.001224,mushroom_08012015_120019.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:24.243295,mushroom_08012016_120020.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:25.507368,mushroom_08012017_120021.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:46:26.765440,mushroom_08012018_120022.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/TransformedFiles/ To: Predicting/TransformedFiles/,2021-04-04 20:46:26.765440,,Completed,13 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:46:28.801556,,Deleted,Folder Predicting/SingleFile/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/SingleFile/ To: Predicting/SingleFile/,2021-04-04 20:46:28.801556,,Started,
+Upload,Uploading File,2021-04-04 20:46:52.020884,InputFile.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:03.228525,SingleFile.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/SingleFile/ To: Predicting/SingleFile/,2021-04-04 20:47:03.228525,,Completed,2 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:47:08.014799,,Deleted,Folder Predicting/LogFiles/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/LogFiles/ To: Predicting/LogFiles/,2021-04-04 20:47:08.014799,,Started,
+Upload,Uploading File,2021-04-04 20:47:24.697753,Logs_of_AllTransactions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:25.465797,Logs_of_Downloading.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:26.347848,Logs_of_LocalFolderCreation.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:26.895879,Logs_of_Merging.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:27.491913,Logs_of_Predictions.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:30.126064,Logs_of_Preprocess.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:32.368192,Logs_of_Transform.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:33.253243,Logs_of_Validated.csv,Uploaded Successfully,
+Upload,Uploading File,2021-04-04 20:47:33.789273,MissingValues_of_Files.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/LogFiles/ To: Predicting/LogFiles/,2021-04-04 20:47:33.789273,,Completed,9 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:47:35.163352,,Deleted,Folder Predicting/Clusters/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Models/Clusters/ To: Predicting/Clusters/,2021-04-04 20:47:35.163352,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Models/Clusters/ To: Predicting/Clusters/,2021-04-04 20:47:35.164352,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:47:36.310417,,Deleted,Folder Predicting/BestModels/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Models/BestModels/ To: Predicting/BestModels/,2021-04-04 20:47:36.310417,,Started,
+Upload,Uploading From: Temp_Files/Predicting/Models/BestModels/ To: Predicting/BestModels/,2021-04-04 20:47:36.311417,,Completed,0 files are uploaded successfully
+Upload,Deleting Folder from Bucket,2021-04-04 20:47:37.614492,,Deleted,Folder Predicting/Predictions/ is successfully deleted from Bucket mushroomclassification
+Upload,Uploading From: Temp_Files/Predicting/Predictions/ To: Predicting/Predictions/,2021-04-04 20:47:37.614492,,Started,
+Upload,Uploading File,2021-04-04 20:48:01.084834,Predictions.csv,Uploaded Successfully,
+Upload,Uploading From: Temp_Files/Predicting/Predictions/ To: Predicting/Predictions/,2021-04-04 20:48:01.084834,,Completed,1 files are uploaded successfully
